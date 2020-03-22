@@ -6,12 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00e5444c-6c4d-487e-bfda-49faab5e93fa" name="Default Changelist" comment="Added CustomizedResponceException.java">
-      <change afterPath="$PROJECT_DIR$/restful-web-services/src/main/java/com/web/service/restfulwebservices/Exception/CustomizedResponceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restful-web-services/src/main/java/com/web/service/restfulwebservices/Exception/ExceptionResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restful-web-services/src/main/java/com/web/service/restfulwebservices/user/UserNotFoundException.java" afterDir="false" />
+    <list default="true" id="00e5444c-6c4d-487e-bfda-49faab5e93fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restful-web-services/src/main/java/com/web/service/restfulwebservices/user/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/restful-web-services/src/main/java/com/web/service/restfulwebservices/user/UserResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,8 +211,16 @@
       <updated>1584787469275</updated>
       <workItem from="1584787471059" duration="3848000" />
       <workItem from="1584815824986" duration="2050000" />
-      <workItem from="1584889423630" duration="4297000" />
+      <workItem from="1584889423630" duration="4335000" />
     </task>
+    <task id="LOCAL-00001" summary="Added CustomizedResponceException.java">
+      <created>1584902150490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584902150490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,46 +255,46 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="704" y="112" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1584815963500" />
-    <state x="257" y="0" key="CommitChangelistDialog2" timestamp="1584902071023">
+    <state x="257" y="0" key="CommitChangelistDialog2" timestamp="1584902149089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="257" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584902071023" />
+    <state x="257" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584902149089" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1584790576821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584790576821" />
-    <state width="1321" height="171" key="GridCell.Tab.0.bottom" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.0.bottom" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
-    <state width="1321" height="171" key="GridCell.Tab.0.center" timestamp="1584902071046">
+    <state width="1321" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.0.center" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584902071046" />
-    <state width="1321" height="171" key="GridCell.Tab.0.left" timestamp="1584902071046">
+    <state width="1321" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.0.left" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584902071046" />
-    <state width="1321" height="171" key="GridCell.Tab.0.right" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.0.right" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
-    <state width="1321" height="171" key="GridCell.Tab.1.bottom" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.1.bottom" timestamp="1584902172755">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
-    <state width="1321" height="171" key="GridCell.Tab.1.center" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584902172755" />
+    <state width="1321" height="171" key="GridCell.Tab.1.center" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
-    <state width="1321" height="171" key="GridCell.Tab.1.left" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.1.left" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
-    <state width="1321" height="171" key="GridCell.Tab.1.right" timestamp="1584902071047">
+    <state width="1321" height="171" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
+    <state width="1321" height="171" key="GridCell.Tab.1.right" timestamp="1584902172754">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1321" height="171" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1584902071047" />
+    <state width="1321" height="171" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1584902172754" />
     <state width="904" height="192" key="GridCell.Tab.2.bottom" timestamp="1584794930942">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -311,14 +315,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="119" key="IDE.errors.dialog/0.0.1366.768@0.0.1366.768" timestamp="1584787548098" />
-    <state x="719" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1584889431155">
+    <state x="719" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1584902296250">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="719" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584889431155" />
-    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584901991068">
+    <state x="719" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584902296250" />
+    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584902313867">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1584901991068" />
+    <state x="490" y="296" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1584902313867" />
     <state x="777" y="79" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584896738942">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
